@@ -14,7 +14,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/brutella/dnssd"
+	"github.com/decent-e/dnssd"
 )
 
 const (
